@@ -6,3 +6,10 @@ name: stable-4.22
 versions:
   - 4.21.0-okd-scos.11
   - 4.22.0-okd-scos.0
+  - 4.22.0-okd-scos.1
+  - 4.22.0-okd-scos.2
+  - 4.22.0-okd-scos.3
+  - 4.22.0-okd-scos.4
+  - 4.22.0-okd-scos.5
+  - 4.22.0-okd-scos.6
+  - 4.22.0-okd-scos.7
