@@ -1,0 +1,8 @@
+feeder:
+  delay: PT0H
+  filter: (5[.]0|5[.]1)[.][0-9]-okd-scos[.].*
+  name: candidate
+name: candidate-5.1
+versions:
+  - 5.0.0-okd-scos.ec.10
+  - 5.1.0-okd-scos.ec.0
