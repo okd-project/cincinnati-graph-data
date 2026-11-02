@@ -1,0 +1,19 @@
+feeder:
+  delay: PT0H
+  filter: 4[.](21|22)[.][0-9]-okd-scos[.].*
+  name: candidate
+name: candidate-4.22
+versions:
+  - 4.21.0-okd-scos.ec.19
+  - 4.22.0-okd-scos.ec.1
+  - 4.22.0-okd-scos.ec.2
+  - 4.22.0-okd-scos.ec.3
+  - 4.22.0-okd-scos.ec.4
+  - 4.22.0-okd-scos.ec.6
+  - 4.22.0-okd-scos.ec.7
+  - 4.22.0-okd-scos.ec.8
+  - 4.22.0-okd-scos.ec.10
+  - 4.22.0-okd-scos.ec.13
+  - 4.22.0-okd-scos.ec.14
+  - 4.22.0-okd-scos.ec.15
+  - 4.22.0-okd-scos.ec.16
